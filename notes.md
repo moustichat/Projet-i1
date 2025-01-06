@@ -15,6 +15,14 @@ Le HTML est composé de **balises** qui structurent le contenu de la page web.
         Paragraphe
     </b>
 </p>
-
-<style>p {color:blue}</style>
+        
+        <style>p {color:blue}</style>
 ```
+
+## Commandes
+
+- ctrl + p : rechercher un fichier
+- ctrl + shift + p : ouvrir les commandes vscode
+- ctrl + shift + f : rechercher dans tous les fichiers
+
+faire une maquette
