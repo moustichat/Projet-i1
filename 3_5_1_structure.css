@@ -1,6 +1,7 @@
 body {
     margin: 0;
 }
+
 #topPage {
     position: absolute;
     width : 100%;
@@ -115,4 +116,10 @@ body {
     -ms-animation: blink 1s ease-in infinite;
     -o-animation: blink 1s ease-in infinite;
     animation: blink 1s ease-in infinite;
-} 
+}
+
+.playwrite-ie-guides-regular {
+    font-family: "Playwrite IE Guides", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
